@@ -1,0 +1,279 @@
+archery
+clout shooting
+field archery
+flight shooting
+kyūdō
+roving
+association croquet
+badminton
+biathlon
+birling
+boccie
+bodybuilding
+boules
+bowling
+candlepins
+cocked hat
+duckpins
+ninepins
+skittles
+bowls
+boxing
+croquet
+cross-country
+darts
+diving
+golf
+gymnastics
+balance beam
+floor exercise
+horizontal bar
+parallel bars
+pommel horse
+rhythmic gymnastics
+handball
+horseshoe pitching
+jai alai
+martial arts
+aikido
+capoeira
+hapkido
+judo
+jujitsu
+karate
+kendō
+kung fu
+pankration
+savate
+tai chi chuan
+tae kwon do
+mountaineering
+orienteering
+pall-mall
+pelota
+pentathlon
+quoits
+rackets
+racquetball
+real tennis
+shooting
+skeet shooting
+trapshooting
+shuffleboard
+skating
+ice skating
+figure skating
+speed skating
+short-track speed skating
+roller-skating
+skibobbing
+skiing
+Alpine skiing
+downhill skiing
+slalom
+freestyle skiing
+Nordic skiing
+cross-country skiing
+ski jumping
+speed skiing
+waterskiing
+snowboarding
+squash rackets
+squash tennis
+swimming
+synchronized swimming
+tennis
+paddle tennis
+table tennis
+track-and-field sports/athletics
+decathlon
+discus throw
+hammer throw
+heptathlon
+high jump
+javelin throw
+long jump
+pole vault
+running
+hurdling
+long-distance running
+marathon
+middle-distance running
+sprint
+steeplechase
+shot put
+triple jump
+triathlon
+underwater diving
+weightlifting
+powerlifting
+weight throw
+wrestling
+catch-as-catch-can wrestling
+Cornish wrestling
+Cumberland wrestling
+freestyle wrestling
+Greco-Roman wrestling
+sambo
+Schwingen
+sumo
+association croquet
+badminton
+bandy
+baseball
+basketball
+biathlon
+boccie
+boules
+bowling
+candlepins
+cocked hat
+duckpins
+bowls
+cricket
+Twenty20 cricket
+croquet
+cross-country
+curling
+darts
+deck tennis
+Eisstockschiessen
+field hockey
+fives
+football
+Australian rules football
+football (soccer)
+Gaelic football
+gridiron football
+rugby
+gymnastics
+rhythmic gymnastics
+handball
+Hooverball
+horseshoe pitching
+hurling
+ice hockey
+jai alai
+kabaddi
+korfball
+lacrosse
+box lacrosse
+netball
+orienteering
+pelota
+rackets
+racquetball
+real tennis
+rounders
+skating
+figure skating
+roller-skating
+speed skating
+skiing
+Nordic skiing
+cross-country skiing
+shinty
+shuffleboard
+softball
+squash rackets
+swimming
+synchronized swimming
+table tennis
+team handball
+tennis
+paddle tennis
+table tennis
+track-and-field sports/athletics
+running
+relay race
+triathlon
+tug-of-war
+volleyball
+water polo
+aerobatics
+air racing
+automobile racing
+drag racing
+Grand Prix racing
+gymkhana
+hill climb
+karting
+midget-car racing
+offroad racing
+rally
+speedway racing
+sports-car racing
+stock-car racing
+ballooning
+bullfighting
+rejoneo
+bungee jumping
+camel racing
+canoeing
+wild-water racing
+cockfighting
+cycling
+cycle ball
+cyclo-cross
+motor-paced race
+pursuit racing
+road race
+pursuit racing
+road race
+six-day race
+sprint
+dog racing
+dogsled racing
+fishing
+fly-fishing
+gladiatorial sports
+venationes
+gliding
+hang gliding
+paragliding
+horsemanship
+buzkashī
+chariot racing
+dressage
+harness racing
+horse racing
+hurdle race
+joust
+point-to-point
+quarter-horse racing
+show jumping
+steeplechase
+hunting
+coursing
+falconry
+field trial
+foxhunting
+iceboating
+motorcycle racing
+motocross
+motorcycle trial
+motor-paced race
+offroad racing
+speedway racing
+pigeon racing
+polo
+polocrosse
+rodeo
+bareback bronc-riding
+bull riding
+calf roping
+steer roping
+steer wrestling
+team roping
+rowing
+skateboarding
+skydiving
+sledding
+bobsledding
+lugeing
+skeleton sledding
+tobogganing
+surfing
+windsurfing
+tournament
+mêlée
